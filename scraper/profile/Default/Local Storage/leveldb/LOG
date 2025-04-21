@@ -1,0 +1,15 @@
+2025/04/21-00:40:10.018 4 Reusing MANIFEST /home/Lea/WebstormProjects/jellydrop/scraper/profile/Default/Local Storage/leveldb/MANIFEST-000001
+2025/04/21-00:40:10.024 4 Recovering log #3
+2025/04/21-00:40:10.024 4 Reusing old log /home/Lea/WebstormProjects/jellydrop/scraper/profile/Default/Local Storage/leveldb/000003.log 
+2025/04/21-00:42:11.184 5 Level-0 table #5: started
+2025/04/21-00:42:11.247 5 Level-0 table #5: 25322 bytes OK
+2025/04/21-00:42:11.251 5 Delete type=0 #3
+2025/04/21-00:44:11.184 5 Level-0 table #7: started
+2025/04/21-00:44:11.252 5 Level-0 table #7: 12083 bytes OK
+2025/04/21-00:44:11.256 5 Delete type=0 #4
+2025/04/21-00:50:11.184 5 Level-0 table #9: started
+2025/04/21-00:50:11.247 5 Level-0 table #9: 18378 bytes OK
+2025/04/21-00:50:11.252 5 Delete type=0 #6
+2025/04/21-00:52:11.184 4 Level-0 table #11: started
+2025/04/21-00:52:11.247 4 Level-0 table #11: 13965 bytes OK
+2025/04/21-00:52:11.252 4 Delete type=0 #8

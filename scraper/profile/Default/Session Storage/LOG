@@ -1,0 +1,66 @@
+2025/04/21-00:40:10.074 4 Reusing MANIFEST /home/Lea/WebstormProjects/jellydrop/scraper/profile/Default/Session Storage/MANIFEST-000001
+2025/04/21-00:40:10.074 4 Recovering log #3
+2025/04/21-00:40:10.074 4 Level-0 table #3: started
+2025/04/21-00:40:10.079 4 Level-0 table #3: 43622 bytes OK
+2025/04/21-00:40:10.082 4 Delete type=0 #3
+2025/04/21-00:41:11.185 4 Level-0 table #6: started
+2025/04/21-00:41:11.247 4 Level-0 table #6: 76196 bytes OK
+2025/04/21-00:41:11.251 4 Delete type=0 #4
+2025/04/21-00:43:06.857 5 Level-0 table #8: started
+2025/04/21-00:43:06.920 5 Level-0 table #8: 153763 bytes OK
+2025/04/21-00:43:06.924 5 Delete type=0 #5
+2025/04/21-00:43:30.157 5 Level-0 table #10: started
+2025/04/21-00:43:30.224 5 Level-0 table #10: 155683 bytes OK
+2025/04/21-00:43:30.228 5 Delete type=0 #7
+2025/04/21-00:43:30.228 5 Compacting 4@0 + 0@1 files
+2025/04/21-00:43:30.233 5 Generated table #11@0: 15 keys, 156258 bytes
+2025/04/21-00:43:30.233 5 Compacted 4@0 + 0@1 files => 156258 bytes
+2025/04/21-00:43:30.235 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/21-00:43:30.236 5 Delete type=2 #8
+2025/04/21-00:43:30.236 5 Delete type=2 #10
+2025/04/21-00:43:30.236 5 Delete type=2 #6
+2025/04/21-00:43:30.236 5 Delete type=2 #3
+2025/04/21-00:45:11.357 5 Level-0 table #13: started
+2025/04/21-00:45:11.419 5 Level-0 table #13: 156723 bytes OK
+2025/04/21-00:45:11.423 5 Delete type=0 #9
+2025/04/21-00:45:36.032 5 Level-0 table #15: started
+2025/04/21-00:45:36.095 5 Level-0 table #15: 171459 bytes OK
+2025/04/21-00:45:36.100 5 Delete type=0 #12
+2025/04/21-00:47:16.145 5 Level-0 table #17: started
+2025/04/21-00:47:16.208 5 Level-0 table #17: 169904 bytes OK
+2025/04/21-00:47:16.213 5 Delete type=0 #14
+2025/04/21-00:47:40.976 5 Level-0 table #19: started
+2025/04/21-00:47:41.039 5 Level-0 table #19: 163404 bytes OK
+2025/04/21-00:47:41.044 5 Delete type=0 #16
+2025/04/21-00:47:41.044 5 Compacting 4@0 + 1@1 files
+2025/04/21-00:47:41.050 5 Generated table #20@0: 15 keys, 163695 bytes
+2025/04/21-00:47:41.050 5 Compacted 4@0 + 1@1 files => 163695 bytes
+2025/04/21-00:47:41.051 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/21-00:47:41.052 5 Delete type=2 #13
+2025/04/21-00:47:41.052 5 Delete type=2 #19
+2025/04/21-00:47:41.052 5 Delete type=2 #11
+2025/04/21-00:47:41.052 5 Delete type=2 #17
+2025/04/21-00:47:41.052 5 Delete type=2 #15
+2025/04/21-00:49:27.843 5 Level-0 table #22: started
+2025/04/21-00:49:27.907 5 Level-0 table #22: 138312 bytes OK
+2025/04/21-00:49:27.911 5 Delete type=0 #18
+2025/04/21-00:49:52.533 5 Level-0 table #24: started
+2025/04/21-00:49:52.544 5 Level-0 table #24: 163486 bytes OK
+2025/04/21-00:49:52.549 5 Delete type=0 #21
+2025/04/21-00:51:39.076 5 Level-0 table #26: started
+2025/04/21-00:51:39.143 5 Level-0 table #26: 157327 bytes OK
+2025/04/21-00:51:39.147 5 Delete type=0 #23
+2025/04/21-00:52:02.979 5 Level-0 table #28: started
+2025/04/21-00:52:03.046 5 Level-0 table #28: 145184 bytes OK
+2025/04/21-00:52:03.050 5 Delete type=0 #25
+2025/04/21-00:52:03.051 5 Compacting 4@0 + 1@1 files
+2025/04/21-00:52:03.057 5 Generated table #29@0: 15 keys, 146179 bytes
+2025/04/21-00:52:03.057 5 Compacted 4@0 + 1@1 files => 146179 bytes
+2025/04/21-00:52:03.058 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/21-00:52:03.058 5 Delete type=2 #28
+2025/04/21-00:52:03.058 5 Delete type=2 #24
+2025/04/21-00:52:03.058 5 Delete type=2 #22
+2025/04/21-00:52:03.058 5 Delete type=2 #26
+2025/04/21-00:52:03.059 5 Delete type=2 #20
+2025/04/21-00:53:31.975 5 Level-0 table #31: started
+2025/04/21-00:53:32.027 5 Level-0 table #31: 157672 bytes OK
