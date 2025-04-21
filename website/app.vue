@@ -74,7 +74,7 @@ const onFormSubmit = ({ valid }) => {
   }
 };
 
-const url = "https://api.onesignal.com/apps/app_id/users";
+const url = "https://api.onesignal.com/apps/a921d50f-c811-41dd-a258-933703e78046/users";
 const options = {
   method: "POST",
   headers: { accept: "application/json", "content-type": "application/json" },
@@ -146,7 +146,7 @@ fetch(url, options)
       </template>
       <template #empty> No jellies found. </template>
       <Column selectionMode="multiple" headerStyle="width: 3rem"></Column>
-      <Column field="name" header="Name" sortable="true">
+      <Column field="name" header="Name" sortable>
         <template #body="{ data }">
           {{ data.name }}
         </template>
@@ -162,7 +162,7 @@ fetch(url, options)
         filterField="availability"
         header="Availability"
         :showFilterMatchModes="false"
-        sortable="true"
+        sortable
       >
         <template #body="{ data }">
           <div class="flex items-center gap-2">
