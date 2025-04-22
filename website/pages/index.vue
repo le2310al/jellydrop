@@ -1,0 +1,4 @@
+<template>
+  <User />
+  <Stock />
+</template>

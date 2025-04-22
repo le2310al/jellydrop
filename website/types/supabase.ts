@@ -6,6 +6,15 @@ export type Json =
   | { [key: string]: Json | undefined }
   | Json[]
 
+declare interface Jelly {
+  id: number
+  name: string
+  url: string
+  stock: boolean
+  availability: string
+  last_updated: string
+}
+
 export interface Database {
   graphql_public: {
     Tables: {
